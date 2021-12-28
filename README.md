@@ -1,4 +1,4 @@
-# Quiz
+# Quiz-App
 
 
 Quiz App is an application to help people to answer to some questions I put in this
